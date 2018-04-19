@@ -1,0 +1,62 @@
+@font-face{
+  font-family: interval;
+  src: url('../Interval.otf')
+}
+
+body, html{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: var(--primary-bg);
+  min-height: 100vh;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: interval;
+}
+
+body + div{
+  height: 100%;
+  width: 100%;
+}
+
+.wrapper{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  width: 100%;
+}
+
+a{
+  color: var(--link);
+}
+
+.title{
+  position: fixed;
+  top: 0;
+  left: 50;
+}
+
+.paper{
+  padding: 1em;
+  background-color: var(--paper-bg);
+  height: 20%;
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: var(--paper-text);
+  -moz-box-shadow: 3px 6px #999;
+  -webkit-box-shadow: 4px 6px 1px  #999;
+}
+
+.paper h1{
+  line-height: 0.5em;
+  margin-top: 0px;
+}
