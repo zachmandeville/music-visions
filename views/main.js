@@ -5,7 +5,6 @@ module.exports = () => {
     <h1>music</h1>
     <h1>visions</h1> 
     <a href='#songbook'>~enter~</a>
-    <a href='/something'>something else</a>
   </div>
   `
 }

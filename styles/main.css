@@ -1,20 +1,26 @@
 @font-face{
   font-family: interval;
-  src: url('../Interval.otf')
+  src: url('./fonts/Interval.otf')
+}
+@font-face{
+  font-family: sinkin;
+  src: url('./fonts/SinkinSans-100Thin.otf')
 }
 
 body, html{
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  background-color: var(--primary-bg);
+  background: rgb(0,0,0);
+  background: linear-gradient(180deg, rgba(0,0,0,1) 2%, rgba(6,7,60,1) 64%, rgba(33,21,4,1) 100%); 
   min-height: 100vh;
   width: 100%;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  font-family: interval;
+  font-family: sinkin;
+  letter-spacing: 0.24em;
 }
 
 body + div{
@@ -23,6 +29,7 @@ body + div{
 }
 
 .wrapper{
+  position: relative;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -42,9 +49,11 @@ a{
 }
 
 .paper{
-  padding: 1em;
-  background-color: var(--paper-bg);
-  height: 20%;
+  border: 1.5px dashed #FFE4E1;
+  border-radius: 7px;
+  padding: 4em;
+  background-color: none;
+  min-height: 40%;
   width: 50%;
   display: flex;
   flex-direction: column;
@@ -53,10 +62,33 @@ a{
   text-align: center;
   color: var(--paper-text);
   -moz-box-shadow: 3px 6px #999;
-  -webkit-box-shadow: 4px 6px 1px  #999;
+/*  -webkit-box-shadow: 1px 1px 10px white; */
 }
 
 .paper h1{
-  line-height: 0.5em;
+  letter-spacing: 0.5em;
+  font-size: 3em;
+  line-height: 1em;
   margin-top: 0px;
 }
+
+.paper a {
+  font-size: 1.2em;
+  line-height: 1.3em;
+  text-decoration: none;
+}
+
+.text{
+  position: relative;
+  animation: fade-in 3s;
+}
+
+@keyframes move-in {
+   0% {width:0%}
+   100% {width:100%;}
+}
+
+@keyframes fade-in {
+  0% {opacity: 0;}
+  70% {opacity: 0.6;}
+  100% {opacity: 1;}
