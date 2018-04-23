@@ -36,4 +36,3 @@ function view (state, emit) {
 }
 
 
-<button onClick={function
