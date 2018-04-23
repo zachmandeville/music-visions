@@ -1,13 +1,20 @@
 {"songs": [
   {title: 'background',
    link: 'background',
-   post:'here is what i want to say'},
+   post:['here is what i want to say']},
   {title: 'the future',
    link: 'the-future',
-   post: 'here is another thing.'},
+   post: ['here is another thing.']},
   {title: 'a third thing',
    link: 'a-third-thing',
-   post: 'a third thing tooo.'
-  } ] }
+   post: ['a third thing tooo.']},
+   {title: 'the playlist as offering',
+    post: [
+           'You seek out songs and bands to explore your own history and place.  The details of a narrative you feel called to own.',
+	   'When your first uinteraction with an emition, a tremble, a hue of a color you could name but not see.  You are introduced to your personal version of these things when you hear certain songs.  These songs are like droplets of amber, containing a reflection of the place you heard it, the time you heard it.  They contain a reflection of you.',
+	   'During these moments, the gift ofa mixtape is a literal offering of yourself.  the mixtape is a form of oral storytelling, like the folktales of old that act as song, lesson, and map all at once.',
+	   'The myths that contain maps, the myths whose style and rhythm of telling are important for within that is held a map.'
+    ]}
+] }
 
 
