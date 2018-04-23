@@ -1,6 +1,7 @@
 :root{
   --primary-bg: #112121;
   --paper-bg: lavender;
-  --paper-text: lavender;
+  --title: #8252a5;
+  --text: #FFE4E1;
   --link: #FFE4E1;
 }

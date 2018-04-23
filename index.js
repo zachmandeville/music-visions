@@ -4,9 +4,8 @@ const html = require('choo/html')
 
 //Bring in our indoor modules
 const main = require('./views/main')
-const awesome = require('./views/awesome')
+const song = require('./views/song')
 const songbook = require('./views/songbook')
-const dots = require('./dots.json')
 
 //Initialize choo
 const app = choo()
@@ -21,7 +20,7 @@ app.use(require('./stores/songs'))
 
 app.route('/', main)
 app.route('#songbook', songbook)
-app.route('#songbook/:song', awesome)
+app.route('#songbook/:song', song)
 app.mount('div')
 
 
