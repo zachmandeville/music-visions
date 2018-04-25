@@ -7,7 +7,7 @@ function view (state, emit) {
   console.log({song})
   return html`
       <div class='wrapper'>
-        <div class='paper'>
+        <div id='track' class='paper'>
           <h1>${song.title}</h1>
 	  <div id='text'>
             ${song.post.map(function (post){ return html`<p>${post}</p>`})}
