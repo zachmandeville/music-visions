@@ -15,6 +15,7 @@ function store (state,emitter) {
   emitter.on('DOMContentLoaded', function (){
     emitter.on('close', function (song) {
       state.lastSong = song
+      emitter.emit('pushState', '/#songbook')
     })
   })
 
