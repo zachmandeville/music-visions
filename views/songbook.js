@@ -16,7 +16,7 @@ function view (state, emit) {
 	 ${state.songs.map(listTracks)}
 	</ul>
       </div>
-        <h1>Last Track: something</h1>
+        <h1>Last Track: ${state.lastSong}</h1>
       </div>
     </div>
     `
@@ -36,4 +36,3 @@ function view (state, emit) {
 }
 
 
-<button onClick={function
