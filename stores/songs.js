@@ -9,7 +9,7 @@ function store (state,emitter) {
   emitter.on('DOMContentLoaded', function () {
     emitter.on('changeSong', function (song) {
       song = song.replace(/\s+/g, '-').toLowerCase()
-     emitter.emit('pushState', '/#songbook/'+song)
+     emitter.emit('pushState', `/#songbook/${song}`)
      setTimeout("document.getElementById('track').classList.toggle('change-color')", 1500)
     })
 })
