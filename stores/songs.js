@@ -4,6 +4,7 @@ function store (state,emitter) {
   var songs = require('../songs.json')
   state.songs = songs.songs
   state.currentSong = ''
+  state.songList = []
 
   emitter.on('DOMContentLoaded', function () {
     emitter.on('changeSong', function (song) {
@@ -18,6 +19,11 @@ function store (state,emitter) {
       emitter.emit('pushState', '/#songbook')
     })
   })
-
+  emitter.on('DOMContentLoaded', function () {
+    var archive = new DatArchive(window.location.host)
+    var songFiles = archive.readdir('songs').then(contents => {
+      state.songList = contents
+      console.log(state.songList)
+    })
+})
 }
-
