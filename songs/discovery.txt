@@ -1,0 +1,19 @@
+title: discovery
+----
+post:
+
+Discovery is important, otherwise you are just making a personal cloud music player--which is not really exciting to me.  So how can we include discovery?
+~~*
+I think we should think jof how discovery worked before algorithms?  Those methods worked for millennia, somehow we've always been able to find new music, and playlists today that are helped by playlists are especially bland.
+~~*
+So how did discovery work before?
+~~*
+through the ability to dive in and to recommend and through hubs.
+~~*
+the hub of a venue
+~~*
+the hub of a record store
+~~*
+the hub of a message board.
+~~*
+hubs are natural, but can form anywhere and shift over time.

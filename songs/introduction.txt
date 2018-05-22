@@ -1,0 +1,11 @@
+title: introduction
+----
+post:
+
+In the spring of 2018, I set out on a personal project as part of my work at Enspiral Dev Academy.  The goal of the project was to make a successful contribution to a decentralized app. I started the course because I wanted to help build a better solarpunk future, and so I figured I should spend my personal project energy on learning how these awesome future applications are made.
+~~*
+The decentralized app I chose was Datradio--a punk2punk music player.  Datradio is a site you can access through the Beaker Browser, where you can create playlists on your computer and then share them through the magic, person-powered fabric that is decentralized technology.
+~~*
+I made a small pull request to datradio (fixing a small bug), but the creator of the project (@cbglh) told me what would really help is some long-term envisioning of what datradio <em>could</em> be.  I thought I would write a couple thoughts on features.  Instead, I ended up with this entire site.
+~~*    
+Datradio exists in an entirely new space, using entirely new technology.  I did not want to give any long-term future for it, unless that future vision was also entirely new. I think this technology will allow us to create something truly meaningful for music scenes, and for the future romances of future youth.  That is really exciting to me , and so this project might have ended up a bit sincere.  But hey, the future <em>is</em> sincere.

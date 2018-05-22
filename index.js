@@ -17,6 +17,7 @@ if (process.env.NODE_ENV !== 'production') {
 } 
 
 app.use(require('./stores/songs'))
+app.use(require('./stores/songNavigation'))
 
 app.route('/', main)
 app.route('#songbook', songbook)

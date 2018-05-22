@@ -1,0 +1,11 @@
+title: four views into datradio
+----
+post:
+
+The view of the listener, who wants to pick a playlist to have in the background, and personalize their unique datradio fork.  This is datradio as boombox, with each link entered into the window like a cassette being added to the deck.
+~~*
+The view of the artist, who wants to upload their latest album or mix.  They are navigating between a file structure and the dat instance, and making sure their specific playlist has the colors, shape, appearance, and tracklisting that they want.  They are not concerned with the larger collection, just the shape of this particular datarchive.
+~~*
+The view of the explorer and voyeur, who is visiting their friend's datradio.  They trust their friend's taste, and want to find something new to listen to.  So they browse through the friend's list of playlists, and find ones that look interesting.  If they click on one, and the first song is great, and the appearance of that playlist is ownderful, then they'll copy the link and add it to their own personal collection.  In this case, the view into the friend's collection is likely different from the friend's own view,b ut v. similar.  In the way that the tapes you display in your room is different than the walkman you have on you.
+~~*
+And so there is the view of the curator, who wants to display the playlists they've collected, the albums they've found.  This may not be all of their music, and it may look different than their personal view.  This is offering their entire collection to the grander chorus.

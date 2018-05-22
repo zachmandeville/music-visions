@@ -1,0 +1,7 @@
+title: the structure
+----
+post:
+
+This site is a mix of my thoughts on the future, memories, favorite albums, feelings i wanna express but cannot quite articulate, and some practical roadmapping.  There is some mention of good features or things to build, but it is largely a collage of tones that I hope gives forth an idea of where datradio could go.
+~~*
+There are practical thoughts within here, but none are given that linear.  This is partly just a personal hurdle, that I have a hard time with 'linear thought', but it's also that I didn't want to narrow the possibilities of datradio by trying to construct a logical argument for an emotional thing.  I wanted to give you a prairie, instead of a few blades of glass, carefully arranged in a line.
