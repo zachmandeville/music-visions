@@ -38,6 +38,8 @@
     "choo-devtools": "^2.5.0",
     "choo-service-worker": "^2.4.0",
     "document-ready": "^2.0.1",
+    "lodash": "^4.17.10",
+    "smarkt": "0.0.6",
     "watchify": "^3.11.0"
   }
 }

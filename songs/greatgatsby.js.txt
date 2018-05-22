@@ -1,0 +1,11 @@
+title: greatgatsby.js
+----
+post:
+
+Code is art.  It is a beautiful form of human expression, but it has a disadvantage when compared to other art forms: code doesn't get to stick around and resonate.  Books get better with time, when the words have sunk in over generations.  Music can be ahead of its time, with the full influence of an album finally coming through decades later.  But it's rare when we re-appraise source code, rediscover the coder's original intent and the imagination they were trying to manifest.  If code is successful, then it gets blotted out by its fanmade sequels, and we only appraise it by how it stands today.
+~~*
+The web is a work built upon an original piece of code that maybe we misunderstood.  And maybe even that original proposal was built upon ideas that Tim Berners-Lee didn't really understand.
+~~*
+Ted Nelson's Xanadu is a beautiful thought that is now maligned because 'the web won', as if the fact  Xanadu was never built negates the strength of its dream.
+~~*
+Can we learn from past technology and past visions beyond just stating  'where they went wrong'? Can we appreciate the artistic importance of a book even if it never became a movie?

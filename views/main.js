@@ -1,5 +1,8 @@
 const html = require('choo/html') 
-module.exports = () => {
+
+var TITLE = 'm u s i c v i s i o n s'
+
+module.exports = (state,emit) => {
   return html`
   <div class='paper-splash'>
     <h1>music</h1>
