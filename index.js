@@ -22,8 +22,3 @@ app.route('/', main)
 app.route('#songbook', songbook)
 app.route('#songbook/:song', song)
 app.mount('div')
-
-
-
-
-

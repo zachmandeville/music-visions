@@ -34,9 +34,10 @@
     "tinyify": "^2.4.0"
   },
   "dependencies": {
-    "choo-devtools": "^2.5.0",
     "babelify": "^8.0.0",
+    "choo-devtools": "^2.5.0",
     "choo-service-worker": "^2.4.0",
+    "document-ready": "^2.0.1",
     "watchify": "^3.11.0"
   }
 }

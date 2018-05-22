@@ -4,6 +4,7 @@ const html = require('choo/html')
 module.exports = view
 
 function view (state, emit) {
+    emit('DOMTitleChange', 'Songbook')
     return trackListing(state)
 
   function trackListing(state, emit) {
@@ -13,7 +14,7 @@ function view (state, emit) {
       <h1>M U S I C    V I S I O N S </h1>
       <div id='tracklist'>
 	<ul>
-	 ${state.songs.map(listTracks)}
+	 ${state.songList.map(listTracks)}
 	</ul>
       </div>
         <h1>Last Track: ${state.lastSong}</h1>
@@ -22,11 +23,12 @@ function view (state, emit) {
     `
   }
   function listTracks (song) {
-    return html`<li onclick=${change}>${song.title}</li>`
+      return html`
+        <li onclick=${change}>${song.title}</li>
+	`
   }
 
   function change (data) {
-    console.log(data.target.innerHTML)
     song = data.target.innerHTML
     emit('changeSong',song)
   }
