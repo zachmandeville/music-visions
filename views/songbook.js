@@ -8,7 +8,6 @@ function view (state, emit) {
     return trackListing(state)
 
   function trackListing(state, emit) {
-    console.log({songList: state.songList})
     return html`
     <div class='wrapper'>
       <div class='paper'>
@@ -24,14 +23,12 @@ function view (state, emit) {
     `
   }
   function listTracks (song) {
-    console.log('listin tracks')
       return html`
-        <li>${song.title}</li>
+        <li onclick=${change}>${song.title}</li>
 	`
   }
 
   function change (data) {
-    console.log(data.target.innerHTML)
     song = data.target.innerHTML
     emit('changeSong',song)
   }

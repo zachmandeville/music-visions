@@ -1,10 +1,10 @@
 const html = require('choo/html')
 
 module.exports = view
-
 function view (state, emit) {
-  var song = state.songs.find(song => song.title == state.params.song.replace(/-/g,' '))
-  console.log({song})
+  var chosenSong = state.params.song.replace(/-/g,' ')
+  var song = state.songList.find(song => song.title == chosenSong)
+
   return html`
       <div class='wrapper'>
         <div id='track' class='track'>
