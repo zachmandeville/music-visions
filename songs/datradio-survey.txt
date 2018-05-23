@@ -2,12 +2,24 @@ title: datradio survey
 ----
 post:
 
+I can lilt ever higher about the future until there's no ground beneath me, and so I want to describe datradio, as it is now, as clearly as I can.
+~~*
+
 Datradio is a single page, filled mostly with text.  The left hand side contains a list of playlists you've made or subscribed to.  The right is a list of commands you can run to change the appearance of each playlist's page, along with the tracklistings and names and other commands.  In the center is a terminal window to enter these commands.
 ~~*
+
 Within this text window you can also throw in links to dat archives.  If that archive includes mp3s, they suddenly fill up the center column and you now have a true blue playlist.   You can then run commands to move these freshly imported tracks around, or change the name and appearance of the list.
 ~~*
+
 After you've made all these changes, you can go into the beaker library of your datradio and see a bunch of changes to review.  You review them, publish teh changes, and now all your customization will be saved in the configurations of the site.
 ~~*
+
 To add a new playlist, you have to have a link to a dat archive.  And so, you must first upload a folder of mp3's to your dat. You do this through the beaker library too--you click 'new > import folder' and then choose the folder from your computer.  You publish your changes, view this dat archive to copy it's link, then throw this link back into your datradio site.
 ~~*
+
 In other words, using dat is a balance between the nitty gritty of file management and a simple, two color interface.  You are continually aware that everything you're doing lives as some tangible object on your computer, and you can easily make changes to files to see these changes reflected on your site and vice versa.
+~~*
+
+This awareness of folders and files is an incredible strength.  When you play a mixtape on cassette, the mechanics of that object become a part of the sound: the heavy chunk when the playbutton is pressed, the low ambience of the revolving spindles pushing forward the tape.  When you play album on vinyl, there's one extra track not available through any other medium--it is the final rhythmic scratch, when you hear no melody, no chords, just the sound of a needle running along one small, smooth groove.
+~~*
+Datradio does not have a physical form, but it can have a felt presence, a magic of sound coming from charmed objects.
