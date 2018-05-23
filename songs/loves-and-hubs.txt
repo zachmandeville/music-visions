@@ -1,7 +1,7 @@
 title: loves and hubs
 ----
+post:
 
-text:
 As I wrote up the Discovery section, I realized there were two recurring themes.  We discover music through a trusted connection, some love who gives you a personal mixtape or recommendation, or you'd discover it through a trusted hub: the hub of a venue, or record store, radio station, or scene.
 ~~*
 
