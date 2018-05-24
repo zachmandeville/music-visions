@@ -1,6 +1,11 @@
 title: the means of distribution
 ----
+track: 07
+----
 post:
+
+Streaming is a method of listening to music, much like the method listening on tape, or vinyl, or cd.  We can choose whoever we want to go with for our tape pressing or vinyl making, but that doesn't change the method in which we distribute and deliver the music.  For streaming though, the company decides how it's distributed.  We choose between a small number of providers, and our fans <em>have</em> to choose one of them to listen and then are locked in to them, essentially.  This makes little sense.
+~~*
 
 We must own the means of distribution.  There are so many diverse physical methods, the style of play is imnportant. Not the way you chooose to distribute that style.  Like--people will want to listen to a tape, or a cd, or a record.  And, if they big ol' audiophiles, they may appreciate a certain thickness of vinyl or quality of tape.  But there are few, if zero, people who would say 'I only listen to bands who press vinyl specifically with VinylCo. Pressing plant.  And I only listen to bands who use RCA-DVI for distribution.  If that 180gram vinyl came to me through any other means, than fucking NO way will I listen.
 ~~*

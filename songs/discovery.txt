@@ -1,5 +1,7 @@
 title: discovery
 ----
+track: 05
+----
 post:
 
 Discovery is important, otherwise you are just making a personal music player for yr personal cloud-- which is not really exciting to me.  So how do we include it with datradio?

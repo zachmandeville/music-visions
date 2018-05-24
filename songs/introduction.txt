@@ -1,5 +1,7 @@
 title: introduction
 ----
+track: 01
+----
 post:
 
 In the spring of 2018, I set out on a personal project as part of my work at Enspiral Dev Academy.  The goal of the project was to make a successful contribution to a decentralized app. I started the course because I wanted to help build a better solarpunk future, and so I figured I should spend my personal project energy on learning how these awesome future applications are made.

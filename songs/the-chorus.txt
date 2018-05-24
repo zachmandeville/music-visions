@@ -1,0 +1,7 @@
+title: the chorus
+----
+track: 05
+----
+post:
+
+writing about the chorus!

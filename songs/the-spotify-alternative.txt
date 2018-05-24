@@ -1,5 +1,7 @@
 title: the spotify alternative
 ----
+track: 08
+----
 post:
 
 We will polish and sculpt datradio and want to share it widely, and the first batch of feedback will include, 'Is this a spotify alternative?' Or 'What are you going to do to really take out spotify?' or 'You're going to need a lot more features if you want to take on itunes.'  'I love this,' they'll say, so that they can add, 'and here' swhat I think you need to be a true soundcloud replacement: discovery, embeddable urls, more licenses, a business plan.

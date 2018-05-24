@@ -1,0 +1,31 @@
+title: random wants
+----
+track: 10
+----
+post:
+
+To be able to name a track, separate from the file. Some sorta metadata cleanup I guess.  Or maybe metadata on hover.  If I put up a playlist of a single artist and all their albums, then it becomes crowded real fast and it's hard to see what album and what track and so on.  there's the tracklist in the playlist and the tracklist on the album and what you call it and such.  It feels raw, but not in a good way.  maybe a way to put in just the title, but there's more info available in the info section?  And you can choose what the title should be (so maybe it's just the title of the song, or maybe it's the artist and song).
+~~*
+
+The ability to name a datarchive, so that you can better find the one you're looking for.  I do love how you can click info and it tells you what archive it comes from, with a link to go to it.
+~~*
+
+Maybe a way to grab a single song from an archive...though I am not sure how exactly that'd look.
+~~*
+
+For Info to appear below the track when you press it.  On my computer (a 2014 macbook air), once you get to track 11 you have to scroll.  So you click on info and it's not immediately apparent that the click worked, because you don't think to scroll down to see it.
+~~*
+
+For the commands to be available upon click, but not the first thing you see.  It's a useful cheatsheet to have, but it's also v distracting.  There's a lot of text for a site about sound--I would love the text you see to be intentional.  and maybe a difference between when you are viewing a dat you didn't make versus one you did (the commands show on one, for example).  But even, if the commands appeared in a side drawer, that came out upon click...could keep the main site minimal.
+~~*
+
+The ability to name a dat with spaces between, or at least have the hyphens work (right now they disappear so fevers-and-mirrors becomes feversandmirrors).
+~~*
+
+The command bar is cool, but you don't use it much when you're actually listening to the thing. Maybe it can have multiple purposes.  Like the placeholder text shows the current track, but whe you click on it, it goes to the command bar?  I  keep wanting to see song info there, but it ain't.  And I want the playlist name to be more prominent than 'datradio'.  But that's mostly cos i'm thinking of a future where we already know it's datradio, and there's just a helpful hint to seed this and/or fork it.
+~~*
+
+When you upload an archive, and it includes directories and files that are not playable, for the datradio to ignore them.  for example, an album that has 'cover.jpg' will try to play cover.jpg and get confused.
+~~*
+
+

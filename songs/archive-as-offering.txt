@@ -1,0 +1,11 @@
+title: archive as offering
+----
+track: 03
+----
+post:
+
+Creating an archive to share is fundamentally different than creating an entry to a platform.  The web model is to deposit into a server, and as long as that server is up, you can share the content you added.  This is now how a dat works.
+~~*
+
+With a dat, you open your computer to the part of the world you shared your link with.  You create a small gift of an app, or site.
+
