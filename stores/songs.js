@@ -16,13 +16,22 @@ function store (state,emitter) {
     })
   })
   emitter.on('DOMContentLoaded', function () {
-    archive.readdir('songs').then(songs => {
-      songs.map(song => {
-	archive.readFile(`songs/${song}`).then(songText => {
-	  state.songList = [...state.songList, smarkt.parse(songText)]
-	  emitter.emit('replaceState')
-	})
-      })
-    })
+    archive.readdir('songs').then(songs => mapToState(songs))
   })
+
+  function mapToState (songs) {
+    songs.map(song => {
+      archive.readFile(`songs/${song}`)
+	.then(songText => addToSongList(songText))
+    })
+  }
+
+  function addToSongList(text) {
+    var textObj = smarkt.parse(text)
+    state.songList = [...state.songList, textObj]
+    emitter.emit('replaceState')
+  }
 }
+
+
+
