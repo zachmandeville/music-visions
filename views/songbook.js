@@ -4,8 +4,8 @@ const html = require('choo/html')
 module.exports = view
 
 function view (state, emit) {
-    emit('DOMTitleChange', 'Songbook')
-    return trackListing(state)
+  emit('DOMTitleChange', 'Songbook')
+  return trackListing(state)
 
   function trackListing(state, emit) {
     return html`

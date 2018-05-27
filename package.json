@@ -29,7 +29,7 @@
     "babel-core": "^6.26.0",
     "babel-preset-es2015": "^6.24.1",
     "browserify": "^16.2.0",
-    "budo": "^11.2.0",
+    "budo": "^11.2.2",
     "choo": "^6.11.0-preview1",
     "tinyify": "^2.4.0"
   },
@@ -39,6 +39,7 @@
     "choo-service-worker": "^2.4.0",
     "document-ready": "^2.0.1",
     "lodash": "^4.17.10",
+    "marked": "^0.4.0",
     "smarkt": "0.0.6",
     "watchify": "^3.11.0"
   }

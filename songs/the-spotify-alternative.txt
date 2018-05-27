@@ -4,7 +4,16 @@ track: 08
 ----
 post:
 
-We will polish and sculpt datradio and want to share it widely, and the first batch of feedback will include, 'Is this a spotify alternative?' Or 'What are you going to do to really take out spotify?' or 'You're going to need a lot more features if you want to take on itunes.'  'I love this,' they'll say, so that they can add, 'and here' swhat I think you need to be a true soundcloud replacement: discovery, embeddable urls, more licenses, a business plan.
+We will polish and sculpt datradio and want to share it widely, and the first batch of feedback will include:
+
+\"Is this a spotify alternative?\" 
+
+Or, \"What are you going to do to really take out spotify?\" 
+
+Or, \"You\'re going to need a lot more features if you want to take on itunes.\"
+
+Please listen to none of this.
+
 ~~*
 I wanna urge you to listen to none of this. They are positioning an argument that is absurd and damaging--this notion that we are trying to 'replace' a shitty thing, to assume it's spot, and to do so we should have feature parity with that shitty thing.
 ~~*
