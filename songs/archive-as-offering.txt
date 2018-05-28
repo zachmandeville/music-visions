@@ -1,11 +1,66 @@
 title: archive as offering
 ----
-track: 03
+track: 02
 ----
 post:
 
-Creating an archive to share is fundamentally different than creating an entry to a platform.  The web model is to deposit into a server, and as long as that server is up, you can share the content you added.  This is now how a dat works.
+Hello, dear reader, this is Zach: friendly author!  I want to run through a thought with you, and share a bit of vulnerability!
+
+And because we are in the future, there is both vulnerability and _techno vulnerability_.
+
 ~~*
 
-With a dat, you open your computer to the part of the world you shared your link with.  You create a small gift of an app, or site.
+I am writing this to be read by more people than just you.  I have a hope that these words are useful enough that people want to share them widely. So I have a hope that I don\'t know who you are, that you are some friend of friend that this text has been passed on to. 
+
+But It\'s likely that I _do_ know you: you are the first reader, the first person I shared this datlink with.  So right now I am saying, directly to you, \'I hope you think this is good enough to share.\' 
+
+~~* 
+
+That was the vulnerable part.
+
+~~*
+
+So for this thought, let\'s just assume that you _are_ my friend, the first person I passed this link to.  I think it is important that you know _how_ it is that you can read this right now.
+
+This is not a website, this is a dat archive.   You are not on the web at all.  We are in a place whose name will come later, whose methods and traditions are completely different. 
+
+~~*
+
+For example: to build this archive, I simply made a folder on my computer called `music-visions`, with a subfolder called `songs`.  Within that subfolder I wrote a new file (the one you're reading now), called `archive-as-offering.txt`.
+
+Then I opened up Beaker Browser and shared all these files and folders with you.
+
+~~*
+How?
+
+in Beaker, you can create new dat archives which are, for tradition's sake, called \'sites\'.  These sites are really just folders on your computer, that you may have prepared in such a way that the folder would _look_ like a website. (By \'prepare\', I just mean having the folder contain an index.html file, which is styled with a css page and made to come alive with some sort of javascript.js file.)  
+
+I could have just stored text files in a folder and shared those with you too, but then you\'d just be browsing a list of filenames and plain text and not this pleasant sunset vapourwave thing.
+
+~~*
+
+So, yeah, I went onto Beaker, clicked \'new site\', selected my `music-visions` folder and then clicked \'Publish\'.  This provided me a dat link that I could share with you.  this link doesn\'t direct you to some beaker server, or blog service, or intermediary of any kind.  This link guides you directly to my computer,  to the folder I am intentionally broadcasting to you.
+
+~~*
+
+You are reading all of this because right now I  have my computer open, actively sharing it.  Our two screens are connected by a living, ethereal thread.  You might be in the room next to me, you might be on another continent (I don\'t know who will be the first person I share this with).  Wherever you are, you can know that after I shared the link with you,  I stayed in front of my computer, beaker browser open, continually expressing my site through the ether.  I kept the computer on so I could see \'1 peer\' appear in my browser window, letting me know you were now in my computer, in my folder, looking through the files I prepared as an offering to you.
+
+~~*
+
+That was the techno-vulnerable part.
+
+~~*
+
+On the web, we submit our words to central servers and then ask these servers to share these words with others.  The web is sort of a vast library, where we can place our own books on the shelves and let others know in which wing, and on which shelf, you can find our writing (trusting that the library didn\'t remove that wing, or reorganize that shelf, or just plain shut down.)
+
+~~*
+
+But here, in the future, everything\'s more personal.  I am not depositing a book to a library, hoping you\'ll discover it.  I am handing you all my pages at once, at the cafe table we are both sitting at, and trying to not look nervous as you read through all the words.  I am hiding the hope that you pore through them twice, then ask, \'Can I share this?\'
+
+~~*
+
+At that point, this datlink is no longer just a personal offering.  Once it is seeded and shared by you,  these text and pages metaphors start to break down, and the archive resembles something closer to a song.
+
+
+
 
