@@ -14,7 +14,7 @@ function view (state, emit) {
     var posts = [] 
   }else{
     var chosenSong = state.params.song.replace(/-/g,' ')
-    var song = state.songList.find(song => song.title == chosenSong)
+    var song = state.songList.find(song => song.title.toLowerCase() == chosenSong)
     var posts = _.split(song.post, '~~*')
     emit('DOMTitleChange', chosenSong)
 

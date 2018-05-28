@@ -5,12 +5,10 @@ var archive = new DatArchive(window.location.host)
 
 function store (state,emitter) {
   state.songList = []
-
   //When the site loads, read the songs directory and add all the textfiles to the songList state
   //object.
   emitter.on('DOMContentLoaded', function () {
     archive.readdir('songs').then(songs => mapToState(songs))
-  })
   //When someone clicks on a song title, turn that title into a URL, go to that url path, and make
   //the border flicker.
     emitter.on('changeSong', function (song) {

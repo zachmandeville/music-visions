@@ -11,7 +11,8 @@ body, html{
   height: 100%;
   width: 100%;
   font-family: sinkin;
-  font-size: 24px;
+  font-size: 20px;
+  letter-spacing: 0.2em;
   animation: undulate 24s infinite alternate;
 }
   @media (max-width: 700px) {
@@ -189,9 +190,6 @@ a {
 #text {
   overflow-y: scroll;
   line-height: 1.6em;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
   animation: fade-in 3s;
 }
   @media (max-width: 667px) {
@@ -202,6 +200,12 @@ a {
       font-size: 0.9em;
     }
   }
+
+#text div{
+  padding-top: 1em;
+  display: flex;
+  flex-direction: column;
+}
 
 
 #track-buttons{
