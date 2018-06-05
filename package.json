@@ -4,7 +4,7 @@
   "description": "A manifesto of sorts for how music can be supported in the Chorus.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "standard",
     "build": "browserify index.js -t babelify -p tinyify > bundle.js",
     "watch": "watchify index.js -t babelify -p tinyify -o bundle.js",
     "dev": "budo index.js:bundle.js --live --open -- -t babelify"
@@ -31,6 +31,7 @@
     "browserify": "^16.2.0",
     "budo": "^11.2.2",
     "choo": "^6.11.0-preview1",
+    "standard": "^11.0.1",
     "tinyify": "^2.4.0"
   },
   "dependencies": {
@@ -39,7 +40,8 @@
     "choo-service-worker": "^2.4.0",
     "document-ready": "^2.0.1",
     "lodash": "^4.17.10",
-    "marked": "^0.4.0",
+    "markdown-it": "^8.4.1",
+    "nanohtml": "^1.2.4",
     "smarkt": "0.0.6",
     "watchify": "^3.11.0"
   }

@@ -207,6 +207,10 @@ a {
   flex-direction: column;
 }
 
+article p {
+  line-height: 1.6em;
+}
+
 
 #track-buttons{
   display: flex;

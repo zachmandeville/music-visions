@@ -4,7 +4,7 @@ track: 02
 ----
 post:
 
-Hello, dear reader, this is Zach: friendly author!  I want to run through a thought with you, and share a bit of vulnerability!
+So hello, dear reader, this is Zach! The friendly author!  I want to run through a thought with you, and share a bit of vulnerability.
 
 And because we are in the future, there is both vulnerability and _techno vulnerability_.
 

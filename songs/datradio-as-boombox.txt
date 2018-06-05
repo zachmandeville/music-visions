@@ -1,0 +1,9 @@
+title: Datradio as Boombox
+----
+track: 07
+----
+post:
+
+Datradio as boombox. A simple player page, with the personal collection of this radio owner on the left.  All of their subscribed to playlists are here--some are personal albums they uploaded, but don't want to share. Some are new mixes or albums they are listening to, but unsure if they like yet.  The color of the player is the exact color they want.  The size of the player is the exact size they want.  Maybe they've put in their own keyboard shortcuts?  There's a description that's just theirs, a song lyric placed beneath the site title.  When they put in a new dat link, the background of the player changes--it takes on the background color chosen by the playlist owner.  A new description appears below of the dat.  There are photos that appear at the bottom to scroll through. 
+For as long as they are listening to this playlist, the screen will take on the appearance of it.  The closest comparison would be a turntable, with your own stickers and set up, but when you put on a record you stand the sleeve up and place it atop, the visual signifying the source of the sound.
+

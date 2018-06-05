@@ -4,7 +4,6 @@ track: 01
 ----
 post:
 
-PLEASE WORK GOD OLEASE WORJK!
 _In the spring of 2018_, I set out on a personal project as part of my work at Enspiral Dev Academy.  The goal of the project was to make a successful contribution to a decentralized app. 
 
 I went to this coding school because I wanted to learn how to help build a solarpunk future.  So I figured I should devote my personal project to learning how these future applications are built.
