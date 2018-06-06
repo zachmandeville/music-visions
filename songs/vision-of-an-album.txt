@@ -1,0 +1,62 @@
+title: Vision of an Album
+----
+track: 08
+----
+post:
+
+You are becoming nocturnal.  There is something poetic you could say about the moon, and the different light on the leaves outside bringing out a different emotion in your songs.  That you _feel_ lunar and so should write what you feel.  All those things are _kinda_ true, but really it's just embarassing every time your family asks if you're writing 'luuurve songs', and you'd rather wait until they are asleep and avoid any questions.
+
+~~*
+
+as the house quiets and settles your tiny studio comes to life.  It is as tiny as a bedroom closet; it is your bedroom closet.  You've pulled all the clothes out to reveal the eggfoam stapled to the ceiling and wall, the keyboard you got last birthday propped in one corner, next to a pillow pilfered from the upstairs couch.  You sit cross-legged on the pillow with the casio on your lap, cords wrapped around you and plugged into the laptop glowing in the closet corner.
+
+~~*
+
+You checked that your headphones were plugged in, and all the digital toggles of the recording software Jackie had taught you looked the way she said they should look.
+
+Then you pulled out the last letter she sent you, with all its confusing open-ended sentiments and cruelly vague last sentence.  You read it one more time, close your eyes, and play.
+
+~~*
+
+Everything you want to tell her is in these 10 songs.  You've spent all of autumn on it, re-shaping every lyric and pattern.  And tonight you've added the final note.  You listen back to it, that rising swell of synth that takes over where your voice ends, and wavers in a pure all of you chord before it too fades and the song falls into silence and fuck it sounds good.  Like, it sounds just like Baths and you're pacing and skipping around your room cos it doesn't sound like 'departure', but it makes you _feel_ like 'departure'.  Everyone who hears this will love it and you're going to be huge, you think as you fall asleep on your clothes, head in the closet, headphones still on.
+
+~~*
+
+You've had your datradio page ready before you finished any of the songs--it was a sort of wishful thinking, a way to see the album before it had finished.  You changed the color scheme to a pallette that felt right.  Then you found an old photo from that summer that had all the elements needed(powerlines, dusk, a blurred hand) for your perfect album cover and so you added it to the cover folder.  As you looked at your simple datradio the perfect name for your project rose up, and you added it as the title in the top left--a sigil beckoning for the songs to come.
+
+~~*
+
+As the album progressed, you tended to this dat folder like a garden.  You added a lyrics.txt file, that you edited with each iteration of your songs.  Then you added liner-notes.txt and wrote your thank you's: to the field behind mcdonald's, to the bands sharing on #punk2punk, to Jackie, to the mythic 'you' who is listening.  You added more photos from camera roll to the assets/ folder, and watched the collage form below the album cover.  Your folder looked like the ones from the bands you seeded.  Even though the songs hadn't been added yet, your album already felt real.
+
+~~*
+
+Jackie showed you how she put her albums on her raspberry pi, so they'd always be streaming.  Your school's computer class had an excess of old pi's, and no one noticed when one left with you on the last day.  Now that pilfered pi was on your bookshelf, in a black case covered in label stickers, with two sage sticks on either side and a big note beneath that said 'DON'T TOUCH'.  Your music-less album had been patiently broadcasting from this pi all Autumn, it's green light steadily shining its reassurance.
+
+~~*
+
+Now this folder, with its photos and wishful notes and love letter in its lyrics, contained your 10 songs.  You watched them transfer over and appear on your dat site, beneath the power lines, above the collage.  You checked that the track-names matched your lyric file, and all the lyrics showed on the right songs.  You seeded it from your laptop, you quietly seeded it from the family computer upstairs, you seeded it from your pi and now you were ready to share it to everyone else.
+
+~~*
+
+You cannot imagine a world where you could just _give_ this to her, like just mention it casually in a text.  Instead, you share it on #punk2punk, all casually.  This is the channel where you found all your favorite bands, where you heard her albums, where she still posted regularly.  You post the datlink and a short, hopefully appealing, description.  You make sure the pi's green light is still shining and your computer is plugged in, then you go outside. You know it's best to not agonize over whether it's liked, or seeded, or replied to, or if anyone even listens to it at all.  You have  it, you made it, it's there and you should take a walk. 
+
+~~*
+
+That night, you check your page.  There are four new seeds.  Four people are listening to these songs you made.  Four people want to support your work, are actively sharing it so others can hear it.  Four people think this is something that should be heard.  Maybe one of them is her.  Maybe she is hearing everything you finally found a way to say.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

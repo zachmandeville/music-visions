@@ -20,7 +20,7 @@ function view (state, emit) {
     emit('DOMTitleChange', chosenSong)
 
     return html`
-      <body onkeydown=${hotkeys}>
+      <body>
       <div class='wrapper'>
       <section id='track' class='paper'>
       <header>
