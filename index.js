@@ -2,9 +2,9 @@
 const choo = require('choo')
 
 // Bring in our indoor modules
-const cover = require('./views/cover')
-const song = require('./views/song')
-const songbook = require('./views/songbook')
+const cover = require('./cassette/components/cover')
+const song = require('./cassette/components//song')
+const songbook = require('./cassette/components/songbook')
 
 // Initialize choo
 const app = choo()
