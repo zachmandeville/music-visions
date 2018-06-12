@@ -2,12 +2,12 @@
   "name": "music-visions",
   "version": "0.0.1",
   "description": "A manifesto of sorts for how music can be supported in the Chorus.",
-  "main": "index.js",
+  "main": "tape/index.js",
   "scripts": {
     "test": "standard",
-    "build": "browserify index.js -t babelify -p tinyify > bundle.js",
-    "watch": "watchify index.js -t babelify -p tinyify -o bundle.js",
-    "dev": "budo index.js:bundle.js --live --open -- -t babelify"
+    "build": "browserify tape/index.js -t babelify -p tinyify > bundle.js",
+    "watch": "watchify tape/index.js -t babelify -p tinyify -o bundle.js",
+    "dev": "budo tape/index.js:bundle.js --live --open -- -t babelify"
   },
   "repository": {
     "type": "git",
