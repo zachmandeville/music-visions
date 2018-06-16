@@ -1,0 +1,22 @@
+title: colophon
+----
+track: 100
+----
+post:
+
+It is 11:50 at night.  I am in a mint-green room, with thick muslin curtains, on top of a mountain in New Zealand.  But I'm also feeling homesick and wistful and listening to Bright Eyes.   I have a window open, to let the wonderfully crisp night air in.  Exotic moths keep finding their way into my room, drawn by the light of this computer screen.  They crawl for a minute over these words then fly back out again.
+~~*
+
+I made this app using choo, html, css, and smarkt.  The font I chose.  The gradient I chose.  Why I made it this way.
+~~*
+
+How to edit and make one yourself if you choose.  How to navigate the folders and such.
+~~*
+
+The things I wish this could do. It's sharable, but not yet complete.  And if people know how to do these things, to please feel free to tell me or to make a pull request.
+~~*
+
+How to get a hold of me in other ways too.
+~~*
+
+

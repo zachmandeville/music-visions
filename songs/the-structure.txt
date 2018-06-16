@@ -1,7 +1,17 @@
-title: the structure
+title: The Structure
+----
+track: 02
 ----
 post:
 
-This site is a mix of my thoughts on the future, memories, favorite albums, feelings i wanna express but cannot quite articulate, and some practical roadmapping.  There is some mention of good features or things to build, but it is largely a collage of tones that I hope gives forth an idea of where datradio could go.
+This site is a mix of my thoughts on the future, memories, favorite albums, feelings i wanna express but cannot quite articulate, and some practical roadmapping.  There is some mention of good features or things to build, but it is largely a collage of tones that I hope gives forth an idea of where datradio could go.  I realized that a lot of these feelings were based on what dat itself represented, and so I talk about dat in general with datradio as the hidden heart of all my feelings.
+
 ~~*
-There are practical thoughts within here, but none are given that linear.  This is partly just a personal hurdle, that I have a hard time with 'linear thought', but it's also that I didn't want to narrow the possibilities of datradio by trying to construct a logical argument for an emotional thing.  I wanted to give you a prairie, instead of a few blades of glass, carefully arranged in a line.
+
+There are practical thoughts within here, I hope, but none are expressed that directly. This is partly just a personal hurdle, that I have a hard time with 'linear thought', but it's also that I didn't want to narrow the possibilities of datradio by trying to construct a logical argument for an emotional state. 
+
+~~*
+
+I am presenting to you the big prairie of my heart, each future feeling  its own special blade of grass, but they sway together into one amber ocean.
+
+

@@ -5,7 +5,6 @@ function store (state, emitter) {
   state.lastSong = ''
 
   emitter.on('DOMContentLoaded', function () {
-
     emitter.on('nextPhrase', function () {
       state.index += 1
       emitter.emit('render')
@@ -22,6 +21,5 @@ function store (state, emitter) {
       state.lastSong = song
       emitter.emit('pushState', '/#songbook')
     })
-
   })
 }

@@ -1,5 +1,14 @@
 title: supporting not hoarding
 ----
+track: 11
+----
 post:
 
 What is the tool that builds support, and sharing.  That doesn't promote hoarding.  That doesn't encourage you to grab an entire discography cos you can, but instead to intentionally seed the things you love, and inspire you to create your own too?
+~~*
+
+How can this be built into the design of the site?  peer-to-peer-web.com does it well.  Afte ra moment, a gentle request to seed this too, so youare sharing the bandwidth costs and the exposure costs, and such.  That listening to the thing is intentionally supporting it, but that there are other ways to support it too.
+~~*
+
+Let's get rid of our sidelong glances, of adding an album to your 'essential music' playlist with the hope that the band somehow knows, that the DJ can somehow hear the recommendation you gave.  Instead, have those additions, the seedings, the sharings, the support, be direct to the artist and back again.
+

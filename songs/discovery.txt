@@ -1,19 +1,58 @@
 title: discovery
 ----
+track: 05
+----
 post:
 
-Discovery is important, otherwise you are just making a personal cloud music player--which is not really exciting to me.  So how can we include discovery?
+Discovery is important, otherwise you are just making a personal music player for yr personal cloud-- which is not really exciting to me.  So how do we include it with datradio?
 ~~*
-I think we should think jof how discovery worked before algorithms?  Those methods worked for millennia, somehow we've always been able to find new music, and playlists today that are helped by playlists are especially bland.
+
+If we see the work we are doing as a wholly new thing, the beginning of the Chrous instead of the continuation of the web, then we can seek inspiration in places beyond just how current web apps do it.  We knew how to discover music before Spotify's dollar-weighted algorithms. 
 ~~*
-So how did discovery work before?
+
+So how did discovery work before?  Here are a few methods:
 ~~*
-through the ability to dive in and to recommend and through hubs.
+
+A friend or sibling or partner gives you a recommendation--and you don't know how they found this music, but their taste is exquisite.
 ~~*
-the hub of a venue
+
+An unknown band written on the  t-shirt of a crush.
 ~~*
-the hub of a record store
+
+A mixtape given to you personally by a crush.
 ~~*
-the hub of a message board.
+
+A record store, picking out new music based on the name on the CD spine, or the art on the vinyl sleeve, or because it's on the 'Kelly' row of the record store's recommendation shelf, and you know Kelly is the employee with the best taste.
 ~~*
-hubs are natural, but can form anywhere and shift over time.
+
+A diy venue that became a home.  Going to a random show there just cos it's friday, and you trust them, and hearing your three new favorite bands all on the same night.
+~~*
+
+Long car rides and sharing control of the stereo.
+~~*
+
+A message board for a band/record label/city/genre.  Asking others on this same board what they're listening to.
+~~*
+
+Browsing the shelf of tapes in a friend or lover's room.
+~~*
+
+An mp3 blog.
+~~*
+
+A fanzine
+~~*
+
+Getting a sampler from a record label, or checking out all the samples on the 'Artists' page of a record label you love.
+~~*
+
+Chance.
+~~*
+
+
+
+
+
+
+
+

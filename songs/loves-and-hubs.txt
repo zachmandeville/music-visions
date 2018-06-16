@@ -1,0 +1,19 @@
+title: loves and hubs
+----
+track: 06
+----
+post:
+
+As I wrote up the Discovery section, I realized there were two recurring themes.  We discover music through a trusted connection, some love who gives you a personal mixtape or recommendation, or you'd discover it through a trusted hub: the hub of a venue, or record store, radio station, or scene.
+~~*
+
+The gift from a love part feels inherent in datradio, and most all dat sites.  Someone gives you a strange link that reveals a page filled with incredible songs.  This page feels special,marvelously personal, because you know it is coming directlry from their computer..that the only way you could hear these songs now is because that person is actively offering them up to you.  This is such a cute and wonderful notion built into the Chorus itself.
+~~*
+
+But what does a hub look like, in datradio?  Hubs in real life are also decentralized and ephemeral.  Each person's hub would be different, and which one you visit rises and falls with time.  A venue closed down, you move to a new town with a different scene, you date a different person with a wholly different record shelf.
+~~*
+
+How would datradio archives congregate into a hub?  What is the dat version of a music shelf, or record store?  What is the datradio version of a scene?
+
+
+

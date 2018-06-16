@@ -1,0 +1,96 @@
+title: Archive as Song
+----
+track: 03
+----
+
+post:
+"hello"
+When you first learn about dat and beaker, you will undoubtedly hear the terms \'seeding\' and \'forking\'.  It makes sense we talk about these two ideas so much, as they\'re foundational to what makes this space so incredible.  But while both terms might be accurate (or at least familiar) to the technical side of dat, they are not useful for describing what\'s actually _happening_.  The ideas that our words point to when we say \'seed\' and \'fork\' are far older than just torrents and git, they have roots in oral culture. 
+
+~~*
+
+When \'seeding\' a site, you are in essence adding your voice to the expression of an idea.  When you are forking the site, then you are contributing to a living tradition--far closer to a folksong than a repo.
+
+By describing these concepts using their human terms, we can better develop for the future.  If we want our dat app to flourish then we should not look at previous web models of business.  We should instead look at how culture persists, how myths and stories are passed on.  
+
+~~*
+
+I just jumped right in with a bold claim, let me back up a bit:
+
+Hello again, reader friend!  It is still me, Zach!, the author of all these words...at least, I think.  This datzine may have reached you through a friend of a friend of a friend and, by the nature of this new space we are in, it may have transformed during travel.  
+
+~~*
+
+I cannot guarantee that the dat archive you are reading from is the same one I wrote to.  I cannot guarantee that the words I wrote weren\'t deleted or transformed by someone else.  I can\'t even be sure that you know who I am.  There may not be a Zach in your extended network of dat-loving peers, so my presence as an author and friend could be gone now too.  
+
+~~*
+
+But if you are reading any part of these words, then I know the general spirit and intent of my original datzine have persisted, and that\'s good enough for me.
+
+~~*
+
+To better explain this, let\'s do another thought experiment!
+
+Let\'s say that you are my first reader, that the archive you are reading is the one I shared with you directly.  I am not hosting this anywhere besides my computer, which means you are able to read this because right now I have my computer open and its actively broadcasting this message to you.
+
+~~*
+
+At this moment, this dat zine is fragile and ephemeral like its paper cousin.  If you were to lose the link and if I were to lose my computer than this whole site could be lost too.  There is no cached version on some big server.  There is just you and me.
+
+~~*
+
+Now, let\'s say that you don\'t want this zine to disappear.  And not only that, you want to share it with a friend.  You don\'t want to just share the link: it\'s too risky to depend on me keeping my computer up and running(I type in the bath a lot) and you dont\' want to give them a link that points to a dead page.  So, instead, you\'ll help me persist this zine using the always dependable tools of friendship and storytelling.  
+
+~~*
+
+Friendship and storytelling are called, in the dat world, \'seeding\'.
+
+~~*
+
+When you seed a datArchive, you store all the code I\'ve written and broadcast it from your computer too.  
+
+The datlink you share with your friend, then, is not a link to a specific location.  It\'s a link to a specific _thing_ and your friend can be described this thing by either you or me.  In essence our computers are both storytellers, ready to tell the same story to whoever wants to listen.  
+
+~~*
+The story is the code of this zine, and it will be read and interpreted line by line by either of our computers, and then interpreted by your friend's computer into a site they can browse.
+
+Perhaps your friend decides to seed it too.  Or, in technical terms, they ask their computer to memorize and recite this story so the words don\'t die out.
+
+~~*
+
+This particular datzine is pretty straightforward writing, but you could do this same sort of sharing for full dat apps--dats that are event makers, RSS readers,  or full on music players.  In this case, there is still a pattern and order to each bit of code that expresses the archive\'s idea--but the idea cannot be defined as any sort of narrative.   
+
+~~*
+
+In these examples, the dat feels closer to a song, encoded chords and melodies that make up something that can be experienced, but not quite explained.  So then seeding a dat app becomes a type of singing, voices joined together to keep the chorus strong.
+
+~~*
+
+I'm proud of this zine, but you may find that you want to make it your own.  You want to edit it down, alter the background. Maybe you don\'t like the words at all, but you like the structure of this site and want to use that structure for your own personal store.
+
+Please do this!  This alteration is encouraged by me, by Dat and Beaker's forking feature, and by culture\'s continued desire for survival.
+
+~~*
+
+When you fork a dat, you create an \'editable copy\' that lives on your computer.  In other words, you gain all the same patterns and codes of the dat but now you can write your own ideas into it.  The archive will likely have a README that explains how the files are structured.  The code should also be explanatory, with each function and line\'s purpose largely self-evident.  
+
+~~*
+
+And so an app or zine made specifically for dat will be designed to be forked.  It will hold all the instructions for it\'s replication and transformation inside itself.  It  is asking to be altered and personalized, often literally asking for it in the readme.
+
+~~*
+
+A dat is the opposite of a modern website.  Modern websites want to be central bodies of authority, that dominate an audience, interest, or need.  They strive  to remain a singular space whose features expand with its audience, and one that will compete against any site that occupies its conceptual \'space\'.
+
+A dat wants to replicate, and it wants to be altered.  A dat app\'s core idea strengthens the more the app is transformed by each of its users. We are not designing platforms, we are designing tools.  We are communicating patterns and methods that we hope are valuable enough to live through every forked iteration and generation.
+
+~~*
+
+The nearest comparison to dat isn\'t a web site.  It\'s a folk song.  
+
+And so I\'ll end this with a datradio mix of the song \'In the Pines\'. Here are a few well-known versions of a song that has no known beginning, and no authorative version.  It is an object that is easy to pass on, and make one's own.  So while no version sounds like it's previous, the song is still somehow present in all, an idea that through sharing became eternal.
+
+
+
+
+

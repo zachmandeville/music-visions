@@ -1,13 +1,47 @@
 title: datradio survey
 ----
+track: 05
+----
 post:
 
-Datradio is a single page, filled mostly with text.  The left hand side contains a list of playlists you've made or subscribed to.  The right is a list of commands you can run to change the appearance of each playlist's page, along with the tracklistings and names and other commands.  In the center is a terminal window to enter these commands.
+This zine was started as a way to give feedback around the awesome tool datRadio...but my words got away from me as I tried to describe how excited I am about the potential of this tool.
+
+I can lilt ever higher about the future until there's no ground beneath me, but I should return to the ground and describe datradio to you, as it is now.
+
 ~~*
-Within this text window you can also throw in links to dat archives.  If that archive includes mp3s, they suddenly fill up the center column and you now have a true blue playlist.   You can then run commands to move these freshly imported tracks around, or change the name and appearance of the list.
+
+Datradio is a single page, filled mostly with text.  The left hand side contains a list of playlists you've previously made or subscribed to.  The right is a list of commands you can run to change the appearance, tracklisting, name, and other features of the playlist you are on.
+
+In the center is a terminal window and a space reserved for the tracklisting of your playlist.
+
 ~~*
-After you've made all these changes, you can go into the beaker library of your datradio and see a bunch of changes to review.  You review them, publish teh changes, and now all your customization will be saved in the configurations of the site.
+
+The words inside the terminal window prompt you to enter in a Dat Archive link. If that archive includes mp3s, then the filenames of these mp3's will suddenly fill up the center column and you have yrself true blue playlist. You can press play on any track, click info to see the details given about this archive, or run further customization commands from within the terminal window.
+
 ~~*
-To add a new playlist, you have to have a link to a dat archive.  And so, you must first upload a folder of mp3's to your dat. You do this through the beaker library too--you click 'new > import folder' and then choose the folder from your computer.  You publish your changes, view this dat archive to copy it's link, then throw this link back into your datradio site.
+
+For customization, you can change the background color and/or the text color.  You can alter the trackorder, add a description of the mix, and change the name of the mix.  There is not much else customization to be done unless you dig into the code.
+
 ~~*
-In other words, using dat is a balance between the nitty gritty of file management and a simple, two color interface.  You are continually aware that everything you're doing lives as some tangible object on your computer, and you can easily make changes to files to see these changes reflected on your site and vice versa.
+
+After you've made any changes, you should go into the beaker library of your datradio and see a bunch of changes to review.  These are mostly changes to a `playlist.json` file.  If you publish the changes, then all your customization will be saved in the configuration of the site.
+
+~~*
+
+And so to add a new playlist, you have to have a link to a dat archive of mp3's.  In other words, a link to a folder of songs you'd previously assembled.  To make this folder available, you'd use Beaker to find the folder on your computer and convert it to a dat archive.  You'd then copy the address of this new archive, and paste it into your datradio terminal window.
+
+~~*
+
+In other words, using dat is a balance between the nitty gritty of file management and a super-minimal, two color playlist interface.  You are continually aware that everything you're doing lives as some tangible object on your computer, and all the changes you make through the interface end up as text instructions in a JSON file.  You can choose whether to make changes through your datradio site, or by manually editing the .json files and the .mp3 filies in your playlist folders.
+
+
+~~*
+
+I think this awareness of folders and files is an incredible strength.  When you play a mixtape on cassette, the mechanics of that tape become a part of the sound: the heavy chunk when the playbutton is pressed, the low ambience of the revolving spindles pushing forward the tape.  When you play album on vinyl, there's one extra track not available through any other medium-- that final rhythmic scratch, when you hear no melody, no chords, just the sound of a needle running along one small, smooth groove.
+
+~~*
+
+Datradio may not have a physical form, but it can have a felt presence, a magic of sound coming from charmed objects.  
+
+How can we make it easier, then, for a person to create datradio mixes of their own that feel charmed?
+

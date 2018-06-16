@@ -1,0 +1,7 @@
+title: Datradio as Album
+----
+track: 08
+----
+post:
+
+The view of the artist, who wants to upload their latest album or mix.  They are navigating between a file structure and the dat instance, and making sure their specific playlist has the colors, shape, appearance, and tracklisting that they want.  They are not concerned with the larger collection, just the shape of this particular datarchive.  They work through a file of all their tracks, putting in lyrics and information for each one.  They upload all the art they want...the photos and notes and lyrics...into a folder of media.  They check out the dat and find the right font they want, and the color pallette.  There's a mixture of adjustment..some down in the CSS and some done in our editing tool.  Host it on their raspberry pi, wait for the seeds to start.
